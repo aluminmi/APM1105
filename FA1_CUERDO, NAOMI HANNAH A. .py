@@ -11,7 +11,7 @@ miles = km/1.61
 print("The kilometer in miles is:")
 print(float(miles))
 
-# Exercise 2 answer 1
+# Exercise 3 answer 1
 #There is 4.27 minutes in every km since 10km is equivalent to 42minutes and 42seconds
 minutes_per_km = 4.27
 km_per_mile = 1.61
